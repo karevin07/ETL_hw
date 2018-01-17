@@ -1,0 +1,79 @@
+ASP
+Assembly
+BCB
+C／C++
+CGI
+Clipper
+Cobol
+Cold Fusion
+Delphi
+Fortran
+JAVA
+Java Script
+JSP
+LotusNotes
+Pascal
+Perl
+PowerBuilder
+RPG
+Visual basic
+VB Script
+Visual C++
+WML
+XML
+ASP.NET
+VB.NET
+C#.NET
+PHP
+LabVIEW
+Ruby／Qt
+Ruby On Rails
+PL／SQL
+Shell Script
+VBA
+UML
+AJAX
+MFC
+HTTP
+Python
+Matlab
+Obj-C
+OOP
+DDK
+MCU
+Oracle Forms
+Systems Analysis
+Systems Administration
+Hibernate
+Servlets
+Struts
+Tomcat
+jQuery
+R語言
+Swift
+Unity
+Access
+DB2
+Dbase
+FoxPro
+Informix
+MS SQL
+MySQL
+Oracle
+SyBase
+Visual Foxpro
+FileMaker
+MongoDB
+LINUX
+DHTML
+Dreamweaver
+Flash
+Fireworks
+FrontPage
+GoLive
+HTML
+MapInfo
+NetObjects Fusion
+ActionScript
+CSS
+Flex
