@@ -1,86 +1,79 @@
-ASP,27
+ASP,37
 Assembly,1
 BCB,0
 C／C++,0
 CGI,1
 Clipper,1
 Cobol,1
-Cold,0
-Fusion,0
-Delphi,3
+Cold Fusion,0
+Delphi,7
 Fortran,0
-JAVA,54
-Java,4
-Script,0
-JSP,18
+JAVA,96
+JavaScript,22
+JSP,29
 LotusNotes,0
-Pascal,0
+Pascal,1
 Perl,0
 PowerBuilder,2
 RPG,0
-Visual,0
-basic,0
-VB,0
-C++,0
+Visual basic,17
+VB Script,8
+Visual C++,11
 WML,0
-XML,21
-ASP.NET,88
-VB.NET,26
-C#.NET,70
-PHP,90
+XML,31
+ASP.NET,114
+VB.NET,38
+C#.NET,93
+PHP,124
 LabVIEW,0
 Ruby／Qt,0
-Ruby,0
-On,0
-Rails,0
+Ruby On Rails,2
 PL／SQL,0
-Shell,0
-VBA,2
-UML,9
-AJAX,56
-MFC,1
-HTTP,10
-Python,10
+Shell Script,3
+VBA,4
+UML,11
+AJAX,73
+MFC,2
+HTTP,16
+Python,23
 Matlab,0
-Obj-C,2
-OOP,11
+Obj-C,9
+OOP,13
 DDK,0
 MCU,0
-Oracle,36
-Forms,0
-Systems,0
-Analysis,0
-Administration,0
-Hibernate,1
+Oracle Forms,1
+Systems Analysis,3
+Systems Administration,3
+Hibernate,4
 Servlets,2
-Struts,4
-Tomcat,4
-jQuery,109
-R語言,0
-Swift,3
+Struts,7
+Tomcat,8
+jQuery,146
+R語言,2
+Swift,6
 Unity,6
-Access,12
-DB2,3
+Access,16
+DB2,5
 Dbase,3
 FoxPro,0
 Informix,3
-MS,0
-SQL,3
-MySQL,86
+MS SQL,115
+MySQL,118
+Oracle,52
 SyBase,0
-Foxpro,0
+Visual Foxpro,1
 FileMaker,0
 MongoDB,3
-LINUX,27
-DHTML,31
-Dreamweaver,83
-Flash,47
-Fireworks,5
-FrontPage,6
+LINUX,47
+DHTML,38
+Dreamweaver,109
+Flash,67
+Fireworks,6
+FrontPage,9
 GoLive,0
-HTML,190
+HTML,248
 MapInfo,0
-NetObjects,0
-ActionScript,3
-CSS,111
+NetObjects Fusion,0
+ActionScript,4
+CSS,122
 Flex,1

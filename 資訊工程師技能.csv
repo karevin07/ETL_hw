@@ -1,86 +1,80 @@
-ASP,13
-Assembly,0
+技能,數量
+ASP,18
+Assembly,2
 BCB,1
 C／C++,0
 CGI,0
 Clipper,0
 Cobol,0
-Cold,0
-Fusion,0
+Cold Fusion,0
 Delphi,3
 Fortran,0
-JAVA,72
-Java,4
-Script,0
-JSP,25
+JAVA,110
+JavaScript,12
+JSP,36
 LotusNotes,2
 Pascal,0
-Perl,3
+Perl,6
 PowerBuilder,1
 RPG,1
-Visual,0
-basic,0
-VB,0
-C++,3
+Visual basic,15
+VB Script,6
+Visual C++,6
 WML,0
-XML,27
-ASP.NET,56
-VB.NET,18
-C#.NET,41
-PHP,36
+XML,29
+ASP.NET,74
+VB.NET,21
+C#.NET,54
+PHP,47
 LabVIEW,0
 Ruby／Qt,0
-Ruby,0
-On,0
-Rails,0
+Ruby On Rails,0
 PL／SQL,0
-Shell,0
+Shell Script,8
 VBA,5
 UML,2
-AJAX,22
+AJAX,35
 MFC,0
-HTTP,8
-Python,9
+HTTP,17
+Python,13
 Matlab,0
-Obj-C,4
+Obj-C,8
 OOP,1
 DDK,0
-MCU,1
-Oracle,53
-Forms,0
-Systems,0
-Analysis,0
-Administration,0
-Hibernate,7
-Servlets,2
-Struts,12
-Tomcat,4
-jQuery,34
+MCU,2
+Oracle Forms,4
+Systems Analysis,2
+Systems Administration,2
+Hibernate,10
+Servlets,5
+Struts,16
+Tomcat,6
+jQuery,48
 R語言,1
 Swift,6
-Unity,0
-Access,12
-DB2,3
+Unity,1
+Access,15
+DB2,5
 Dbase,1
 FoxPro,1
 Informix,1
-MS,0
-SQL,1
-MySQL,49
+MS SQL,105
+MySQL,72
+Oracle,73
 SyBase,0
-Foxpro,0
+Visual Foxpro,1
 FileMaker,0
-MongoDB,2
-LINUX,67
-DHTML,7
-Dreamweaver,7
-Flash,2
-Fireworks,1
+MongoDB,3
+LINUX,89
+DHTML,9
+Dreamweaver,10
+Flash,5
+Fireworks,2
 FrontPage,4
 GoLive,0
-HTML,52
+HTML,75
 MapInfo,0
-NetObjects,0
+NetObjects Fusion,0
 ActionScript,1
-CSS,18
-Flex,0
+CSS,29
+Flex,1
