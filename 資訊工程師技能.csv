@@ -1,80 +1,80 @@
 技能,數量
+JAVA,106
+MS SQL,104
+LINUX,86
+ASP.NET,76
+Oracle,75
+HTML,72
+MySQL,65
+C#.NET,58
+PHP,46
+jQuery,46
+JSP,37
+AJAX,34
+XML,29
+CSS,27
+VB.NET,23
 ASP,18
+Access,18
+Visual basic,17
+HTTP,17
+Struts,16
+JavaScript,12
+Hibernate,10
+Dreamweaver,10
+Python,9
+Obj-C,8
+DHTML,8
+Shell Script,7
+Perl,6
+VB Script,6
+Tomcat,6
+Swift,6
+Visual C++,5
+VBA,5
+Servlets,5
+DB2,5
+Flash,5
+FrontPage,5
+Delphi,4
+Oracle Forms,4
+MongoDB,3
 Assembly,2
-BCB,1
+BCB,2
+LotusNotes,2
+UML,2
+MCU,2
+Systems Analysis,2
+Systems Administration,2
+Fireworks,2
+PowerBuilder,1
+RPG,1
+OOP,1
+R語言,1
+Unity,1
+Dbase,1
+FoxPro,1
+Informix,1
+Visual Foxpro,1
+ActionScript,1
+Flex,1
 C／C++,0
 CGI,0
 Clipper,0
 Cobol,0
 Cold Fusion,0
-Delphi,3
 Fortran,0
-JAVA,110
-JavaScript,12
-JSP,36
-LotusNotes,2
 Pascal,0
-Perl,6
-PowerBuilder,1
-RPG,1
-Visual basic,15
-VB Script,6
-Visual C++,6
 WML,0
-XML,29
-ASP.NET,74
-VB.NET,21
-C#.NET,54
-PHP,47
 LabVIEW,0
 Ruby／Qt,0
 Ruby On Rails,0
 PL／SQL,0
-Shell Script,8
-VBA,5
-UML,2
-AJAX,35
 MFC,0
-HTTP,17
-Python,13
 Matlab,0
-Obj-C,8
-OOP,1
 DDK,0
-MCU,2
-Oracle Forms,4
-Systems Analysis,2
-Systems Administration,2
-Hibernate,10
-Servlets,5
-Struts,16
-Tomcat,6
-jQuery,48
-R語言,1
-Swift,6
-Unity,1
-Access,15
-DB2,5
-Dbase,1
-FoxPro,1
-Informix,1
-MS SQL,105
-MySQL,72
-Oracle,73
 SyBase,0
-Visual Foxpro,1
 FileMaker,0
-MongoDB,3
-LINUX,89
-DHTML,9
-Dreamweaver,10
-Flash,5
-Fireworks,2
-FrontPage,4
 GoLive,0
-HTML,75
 MapInfo,0
 NetObjects Fusion,0
-ActionScript,1
-CSS,29
-Flex,1
