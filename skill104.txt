@@ -1,0 +1,191 @@
+A+
+ActionScript
+ADA
+AJAX
+ASP
+ASP.NET
+ATL
+C
+C#
+C++
+C++.Net
+CGI
+Clipper
+COBOL
+COM/DCOM
+COOL:Gen
+CORBA
+Delphi
+Developer/ Designer 2000
+DirectX
+FORTRAN
+Fox Pro
+FoxBASE+
+Infobasic
+Java
+JCL
+JCreator Pro
+JMS
+JSF
+JSP
+Kylix
+Lotus Notes
+LotusScript
+Matlab
+MFC
+PAL
+Pascal
+PECL
+PeopleCode
+Perl
+PHP
+PL/1
+PowerBuilder
+Pro*C
+Python
+Rexx
+RMI
+RPG
+Ruby
+Simula
+SIR
+Smalltalk
+Spring
+SQR
+StarTeam
+Struts
+TCL
+VBA
+Visual Basic
+Visual Basic .net
+Visual C#
+Visual C++
+Visual J#
+Visual J++
+Visual SourceSafe
+Visual Studio
+Visual Studio .net
+Win32
+WinForm
+WML
+XSL
+XSLT
+LabVIEW
+Silverlight
+Objective-C
+X++
+SWIFT
+R
+ABAQUS
+DDK
+MCU
+OOAD
+OOP
+Oracle Forms
+PVCS
+SDLC
+Servlets
+STL
+Systems Administration
+Systems Analysis
+Systems Analyst
+UML
+VxWorks
+Linux
+Adabas
+ADO
+ANSI SQL
+Brio
+Capacity Planning
+CMMS
+Cognos
+Data Guard
+Data Modeling
+Database Administrator
+Database Management
+DataStage
+DB2
+Dbase
+Endevor
+ERwin
+Essbase
+ETL
+FoWindows Xpro
+FoxBase
+FoxPro 2
+IMS
+Informix
+Informatica
+Ingres
+Interbase
+ISPF
+Jasmine
+JDBC
+Access
+MS SQL
+MySQL
+ODBC
+OLAP
+Oracle
+OWB
+ParaDox
+PL/SQL
+PostgreSQL
+Progress
+RDBMS
+Sagent
+SAPDB
+Sybase
+SYSBASE
+Toad
+Visual Foxpro
+AS/400
+BizTalk
+CC Mail
+CICS
+Citrix
+ClearCase
+ClearQuest
+Domino
+FileNet
+Focus
+Hyperion (Brio)
+Microsoft Exchange
+Microsoft SharePoint
+MQSeries
+Silverstream
+Tomcat
+Vmware
+VSAM
+WebLogic
+WebMethods
+WebSphere
+ActiveX
+Apache SOAP
+Cold Fusion
+DHTML
+Dreamweaver
+EJB
+Electronic Payment
+Fireworks
+FrontPage
+GoLive
+HTML
+J2EE
+J2ME
+J2SE
+JavaScript
+NetObjects Fusion
+RoboHelp
+SGML
+Shtml
+SMIL
+VBScript
+VRML
+Web Master/Developer
+XHTML
+XML
+XML Web services
+XSP
+jQuery
+Flex
