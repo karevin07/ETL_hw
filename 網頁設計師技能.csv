@@ -1,30 +1,30 @@
 技能,數量
-HTML,249
-jQuery,148
-PHP,126
-CSS,125
-MySQL,115
-ASP.NET,113
+HTML,248
+jQuery,146
+CSS,127
+PHP,124
+MySQL,113
+ASP.NET,112
 MS SQL,110
-Dreamweaver,108
-JAVA,94
-C#.NET,90
-AJAX,76
-Flash,67
+Dreamweaver,109
+JAVA,95
+C#.NET,91
+AJAX,77
+Flash,68
 Oracle,51
 LINUX,46
+ASP,39
 DHTML,38
-ASP,36
 VB.NET,35
 JSP,32
 XML,31
 JavaScript,22
-Python,22
+Python,20
 Visual basic,16
-HTTP,16
 Access,16
+HTTP,15
+Visual C++,13
 OOP,13
-Visual C++,11
 UML,11
 Obj-C,9
 FrontPage,9
@@ -32,49 +32,27 @@ VB Script,8
 Tomcat,8
 Struts,7
 Swift,7
-Delphi,6
 Unity,6
 Fireworks,6
-Hibernate,5
+Delphi,5
 DB2,5
 VBA,4
+Hibernate,4
+Dbase,4
 ActionScript,4
-Systems Analysis,3
 Systems Administration,3
 Servlets,3
-Dbase,3
 Informix,3
 MongoDB,3
 PowerBuilder,2
 Ruby On Rails,2
 Shell Script,2
 MFC,2
-R語言,2
+Systems Analysis,2
 Assembly,1
 CGI,1
 Clipper,1
 Cobol,1
-Pascal,1
+R語言,1
 Visual Foxpro,1
 Flex,1
-BCB,0
-C／C++,0
-Cold Fusion,0
-Fortran,0
-LotusNotes,0
-Perl,0
-RPG,0
-WML,0
-LabVIEW,0
-Ruby／Qt,0
-PL／SQL,0
-Matlab,0
-DDK,0
-MCU,0
-Oracle Forms,0
-FoxPro,0
-SyBase,0
-FileMaker,0
-GoLive,0
-MapInfo,0
-NetObjects Fusion,0

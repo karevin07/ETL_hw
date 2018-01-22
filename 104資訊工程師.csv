@@ -1,47 +1,32 @@
 技能,數量
-C#,15
-Java,14
-MS SQL,13
-C,11
-C++,11
-ASP.NET,7
+MS SQL,19
+ASP.NET,12
+Java,12
+MySQL,11
+C#,10
+HTML,10
+Linux,8
+Vmware,8
+ASP,6
+PHP,6
+Oracle,6
 JavaScript,6
-jQuery,6
-HTML,5
-OOP,4
-Linux,4
-MySQL,4
-Oracle,4
-Python,3
-Visual C#,3
-J2EE,3
-AJAX,2
-PHP,2
+Visual Basic,4
+Visual Studio .net,4
+Access,4
+Microsoft Exchange,4
+A+,2
+C++,2
+Fox Pro,2
 Visual Basic .net,2
-Visual Studio,2
-Visual Studio .net,2
+PL/SQL,2
+VBScript,2
 XML,2
-Delphi,1
-JSP,1
-Matlab,1
-MFC,1
-Perl,1
-PowerBuilder,1
-Visual Basic,1
-WinForm,1
-LabVIEW,1
-OOAD,1
-UML,1
-Data Modeling,1
-DB2,1
-PL/SQL,1
-RDBMS,1
-VBScript,1
-A+,0
 ActionScript,0
 ADA,0
-ASP,0
+AJAX,0
 ATL,0
+C,0
 C++.Net,0
 CGI,0
 Clipper,0
@@ -49,25 +34,31 @@ COBOL,0
 COM/DCOM,0
 COOL:Gen,0
 CORBA,0
+Delphi,0
 Developer/ Designer 2000,0
 DirectX,0
 FORTRAN,0
-Fox Pro,0
 FoxBASE+,0
 Infobasic,0
 JCL,0
 JCreator Pro,0
 JMS,0
 JSF,0
+JSP,0
 Kylix,0
 Lotus Notes,0
 LotusScript,0
+Matlab,0
+MFC,0
 PAL,0
 Pascal,0
 PECL,0
 PeopleCode,0
+Perl,0
 PL/1,0
+PowerBuilder,0
 Pro*C,0
+Python,0
 Rexx,0
 RMI,0
 RPG,0
@@ -81,14 +72,18 @@ StarTeam,0
 Struts,0
 TCL,0
 VBA,0
+Visual C#,0
 Visual C++,0
 Visual J#,0
 Visual J++,0
 Visual SourceSafe,0
+Visual Studio,0
 Win32,0
+WinForm,0
 WML,0
 XSL,0
 XSLT,0
+LabVIEW,0
 Silverlight,0
 Objective-C,0
 X++,0
@@ -97,6 +92,8 @@ R,0
 ABAQUS,0
 DDK,0
 MCU,0
+OOAD,0
+OOP,0
 Oracle Forms,0
 PVCS,0
 SDLC,0
@@ -105,6 +102,7 @@ STL,0
 Systems Administration,0
 Systems Analysis,0
 Systems Analyst,0
+UML,0
 VxWorks,0
 Adabas,0
 ADO,0
@@ -114,9 +112,11 @@ Capacity Planning,0
 CMMS,0
 Cognos,0
 Data Guard,0
+Data Modeling,0
 Database Administrator,0
 Database Management,0
 DataStage,0
+DB2,0
 Dbase,0
 Endevor,0
 ERwin,0
@@ -133,13 +133,13 @@ Interbase,0
 ISPF,0
 Jasmine,0
 JDBC,0
-Access,0
 ODBC,0
 OLAP,0
 OWB,0
 ParaDox,0
 PostgreSQL,0
 Progress,0
+RDBMS,0
 Sagent,0
 SAPDB,0
 Sybase,0
@@ -157,12 +157,10 @@ Domino,0
 FileNet,0
 Focus,0
 Hyperion (Brio),0
-Microsoft Exchange,0
 Microsoft SharePoint,0
 MQSeries,0
 Silverstream,0
 Tomcat,0
-Vmware,0
 VSAM,0
 WebLogic,0
 WebMethods,0
@@ -177,6 +175,7 @@ Electronic Payment,0
 Fireworks,0
 FrontPage,0
 GoLive,0
+J2EE,0
 J2ME,0
 J2SE,0
 NetObjects Fusion,0
@@ -189,4 +188,5 @@ Web Master/Developer,0
 XHTML,0
 XML Web services,0
 XSP,0
+jQuery,0
 Flex,0

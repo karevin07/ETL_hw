@@ -1,24 +1,24 @@
 技能,數量
-JAVA,106
-MS SQL,104
-LINUX,86
-ASP.NET,76
-Oracle,75
+JAVA,105
+MS SQL,103
+LINUX,88
+Oracle,74
+ASP.NET,73
 HTML,72
-MySQL,65
-C#.NET,58
-PHP,46
+MySQL,64
+C#.NET,56
 jQuery,46
+PHP,45
 JSP,37
-AJAX,34
+AJAX,33
 XML,29
-CSS,27
-VB.NET,23
+CSS,29
+VB.NET,22
 ASP,18
-Access,18
-Visual basic,17
 HTTP,17
+Access,17
 Struts,16
+Visual basic,15
 JavaScript,12
 Hibernate,10
 Dreamweaver,10
@@ -36,8 +36,8 @@ Servlets,5
 DB2,5
 Flash,5
 FrontPage,5
-Delphi,4
 Oracle Forms,4
+Delphi,3
 MongoDB,3
 Assembly,2
 BCB,2
@@ -58,23 +58,3 @@ Informix,1
 Visual Foxpro,1
 ActionScript,1
 Flex,1
-C／C++,0
-CGI,0
-Clipper,0
-Cobol,0
-Cold Fusion,0
-Fortran,0
-Pascal,0
-WML,0
-LabVIEW,0
-Ruby／Qt,0
-Ruby On Rails,0
-PL／SQL,0
-MFC,0
-Matlab,0
-DDK,0
-SyBase,0
-FileMaker,0
-GoLive,0
-MapInfo,0
-NetObjects Fusion,0
