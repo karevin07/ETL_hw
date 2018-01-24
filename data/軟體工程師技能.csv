@@ -1,58 +1,66 @@
 技能,數量
-JAVA,136
-C#.NET,130
-MS SQL,96
-ASP.NET,79
-LINUX,76
-HTML,66
-Visual C++,54
-MySQL,54
-jQuery,51
-VB.NET,43
-PHP,42
-Oracle,33
-Python,30
-JSP,29
-AJAX,29
-Visual basic,26
-XML,21
-CSS,20
-Obj-C,16
-HTTP,14
-Assembly,13
-MFC,12
-Matlab,12
-Struts,12
-Swift,11
-LabVIEW,10
-JavaScript,9
-Hibernate,9
-Flash,9
-ASP,8
-MCU,8
-DHTML,8
-Delphi,7
-Flex,7
-BCB,6
-UML,6
-Access,6
-MongoDB,6
-Perl,5
-VB Script,5
-Dreamweaver,5
-Tomcat,4
-Unity,4
-RPG,3
-Shell Script,3
-VBA,3
-OOP,3
-Servlets,3
-DB2,3
-Cobol,2
-PowerBuilder,2
-Systems Analysis,2
-Dbase,2
-FoxPro,2
+JAVA,287
+C#.NET,225
+MS SQL,205
+LINUX,181
+HTML,162
+ASP.NET,155
+MySQL,134
+jQuery,119
+PHP,108
+Visual C++,90
+Oracle,84
+VB.NET,75
+CSS,69
+AJAX,67
+Python,64
+JSP,54
+XML,53
+Visual basic,51
+HTTP,35
+Obj-C,30
+ASP,27
+Assembly,27
+MCU,23
+MFC,22
+LabVIEW,21
+Struts,19
+Flash,19
+Dreamweaver,18
+Swift,18
+DHTML,17
+JavaScript,17
+VB Script,16
+Delphi,16
+Tomcat,16
+Perl,16
+Access,16
+Hibernate,15
+BCB,14
+Matlab,13
+OOP,12
+Servlets,12
+UML,9
+Shell Script,9
+VBA,8
+Flex,8
+Unity,7
+MongoDB,7
+Systems Analysis,6
+DB2,6
+ActionScript,5
+FrontPage,5
+Fireworks,5
+LotusNotes,4
+RPG,4
+Cobol,3
+Dbase,3
+FoxPro,3
+PowerBuilder,3
+Oracle Forms,2
+Visual Foxpro,2
+Informix,2
+Systems Administration,2
+FileMaker,1
+R語言,1
 Ruby On Rails,1
-Oracle Forms,1
-Informix,1

@@ -1,65 +1,67 @@
 技能,數量
-HTML,149
-MS SQL,122
-JAVA,120
-ASP.NET,115
-C#.NET,113
-PHP,110
-jQuery,100
-MySQL,99
-CSS,68
-AJAX,61
-Oracle,55
-LINUX,54
-VB.NET,47
-ASP,42
-JSP,32
-XML,25
-Visual basic,24
-DHTML,24
-Dreamweaver,22
-Obj-C,19
-Visual C++,18
-Access,18
-JavaScript,16
-HTTP,16
-Python,14
-Tomcat,13
-OOP,12
-Delphi,11
-Flash,11
-Swift,10
-VB Script,9
-UML,9
-Struts,9
-Unity,8
+HTML,274
+JAVA,234
+MS SQL,233
+jQuery,223
+ASP.NET,219
+C#.NET,218
+PHP,193
+MySQL,190
+CSS,136
+AJAX,121
+Oracle,105
+LINUX,102
+JSP,71
+XML,68
+VB.NET,65
+ASP,59
+DHTML,39
+JavaScript,37
+Dreamweaver,37
+Python,35
+HTTP,31
+Visual C++,30
+Flash,27
+Visual basic,26
+Tomcat,24
+Obj-C,23
+Struts,21
+Access,21
+Hibernate,16
+Unity,15
+OOP,15
+VB Script,15
+Swift,12
+UML,12
+Delphi,12
+Servlets,9
+DB2,8
+Flex,8
+ActionScript,8
+FrontPage,7
+VBA,6
 PowerBuilder,6
-DB2,5
-ActionScript,5
-VBA,4
-Servlets,4
+Fireworks,5
 Dbase,4
+Ruby On Rails,4
+Oracle Forms,4
+Perl,4
 Informix,4
-Fireworks,4
-FrontPage,4
+Visual Foxpro,3
+Cobol,3
 Systems Administration,3
-Hibernate,3
+MFC,3
+CGI,3
+Shell Script,3
 MongoDB,3
-CGI,2
-Cobol,2
-Ruby On Rails,2
-Shell Script,2
-MFC,2
-Systems Analysis,2
+BCB,2
 FoxPro,2
-Visual Foxpro,2
-Assembly,1
+LotusNotes,2
+R語言,2
+Systems Analysis,2
+SyBase,1
 Clipper,1
-LotusNotes,1
-Perl,1
 RPG,1
 WML,1
+Assembly,1
 Matlab,1
-R語言,1
-SyBase,1
-Flex,1

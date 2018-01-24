@@ -1,60 +1,69 @@
 技能,數量
-JAVA,105
-MS SQL,103
-LINUX,88
-Oracle,74
-ASP.NET,73
-HTML,72
-MySQL,64
-C#.NET,56
-jQuery,46
-PHP,45
-JSP,37
-AJAX,33
-XML,29
-CSS,29
-VB.NET,22
-ASP,18
-HTTP,17
-Access,17
-Struts,16
-Visual basic,15
-JavaScript,12
-Hibernate,10
-Dreamweaver,10
-Python,9
-Obj-C,8
-DHTML,8
-Shell Script,7
-Perl,6
-VB Script,6
-Tomcat,6
-Swift,6
-Visual C++,5
-VBA,5
-Servlets,5
-DB2,5
-Flash,5
-FrontPage,5
-Oracle Forms,4
-Delphi,3
-MongoDB,3
-Assembly,2
+MS SQL,249
+JAVA,232
+ASP.NET,182
+LINUX,178
+C#.NET,168
+HTML,156
+MySQL,144
+Oracle,143
+jQuery,110
+PHP,102
+JSP,65
+CSS,64
+AJAX,64
+VB.NET,58
+Python,55
+ASP,48
+XML,46
+Visual basic,40
+JavaScript,31
+HTTP,31
+Access,30
+Visual C++,27
+Struts,23
+Dreamweaver,20
+Tomcat,19
+DHTML,18
+Delphi,18
+VB Script,17
+Obj-C,17
+Hibernate,16
+DB2,15
+Flash,14
+UML,13
+Perl,13
+Servlets,12
+Swift,11
+FrontPage,11
+Shell Script,11
+Fireworks,9
+OOP,9
+Oracle Forms,8
+Dbase,8
+VBA,8
+Assembly,7
+Matlab,7
+PowerBuilder,6
+Informix,6
+MongoDB,6
+R語言,5
+RPG,5
+Systems Administration,4
+MCU,4
+Cobol,4
+Systems Analysis,4
+FileMaker,3
+LotusNotes,3
+Flex,3
+Unity,3
+Visual Foxpro,2
+Ruby On Rails,2
+FoxPro,2
+MFC,2
+CGI,2
+ActionScript,2
 BCB,2
-LotusNotes,2
-UML,2
-MCU,2
-Systems Analysis,2
-Systems Administration,2
-Fireworks,2
-PowerBuilder,1
-RPG,1
-OOP,1
-R語言,1
-Unity,1
-Dbase,1
-FoxPro,1
-Informix,1
-Visual Foxpro,1
-ActionScript,1
-Flex,1
+WML,1
+Clipper,1
+LabVIEW,1

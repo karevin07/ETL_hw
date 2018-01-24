@@ -1,66 +1,67 @@
 技能,數量
-MS SQL,219
-JAVA,121
-ASP.NET,118
-C#.NET,115
-MySQL,115
-Oracle,107
-LINUX,85
-HTML,85
-jQuery,82
-PHP,71
-VB.NET,46
-AJAX,43
-CSS,36
-JSP,35
-ASP,31
-XML,30
-Visual basic,29
-Visual C++,20
-Python,19
-Access,18
-JavaScript,16
-Struts,13
-VB Script,11
-Tomcat,11
-DHTML,11
-Hibernate,10
-Flash,8
-OOP,7
-DB2,7
-Dreamweaver,7
-FrontPage,7
-HTTP,6
-Obj-C,6
-Servlets,6
+MS SQL,287
+ASP.NET,185
+C#.NET,170
+JAVA,168
+MySQL,162
+HTML,129
+Oracle,126
+LINUX,123
+jQuery,121
+PHP,103
+AJAX,64
+CSS,55
+VB.NET,54
+ASP,43
+JSP,43
+XML,35
+Visual basic,32
+Access,28
+Visual C++,27
+Python,27
+Tomcat,25
+JavaScript,25
+Struts,20
+HTTP,19
+DHTML,15
+OOP,15
+VB Script,12
+Hibernate,12
+Flash,11
+Dreamweaver,11
+FrontPage,11
+UML,11
+DB2,10
+Servlets,9
+Obj-C,8
+Delphi,8
+VBA,7
+R語言,7
+Dbase,7
+Shell Script,6
 MongoDB,6
+LabVIEW,6
+PowerBuilder,6
+Swift,6
 Flex,6
-Delphi,5
-PowerBuilder,5
-Systems Administration,5
-R語言,5
+Matlab,6
+Fireworks,5
+Systems Analysis,5
 Informix,5
+Systems Administration,5
 Perl,4
-LabVIEW,4
-Shell Script,4
-Systems Analysis,4
-Swift,4
-Dbase,4
+SPSS,4
+SyBase,3
 BCB,3
 FoxPro,3
-Fireworks,3
-SPSS,3
-VBA,2
-UML,2
-MFC,2
-Matlab,2
-Unity,2
-SyBase,2
 FileMaker,2
-CGI,1
-LotusNotes,1
-Pascal,1
-Ruby On Rails,1
-MCU,1
-Oracle Forms,1
+Oracle Forms,2
+MFC,2
+Ruby On Rails,2
+Unity,2
 Visual Foxpro,1
+Pascal,1
+ActionScript,1
+LotusNotes,1
+CGI,1
+MCU,1
