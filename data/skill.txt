@@ -9,7 +9,7 @@ Cold Fusion
 Delphi
 Fortran
 JAVA
-JavaScript
+Java Script
 JSP
 LotusNotes
 Pascal
